@@ -12,3 +12,4 @@
 * Hong Peng Fei
 * Faith See Wan Yi
 * Timothy Liu Kaihui
+<img src = "https://github.com/HoJinKind/Term4_Java1D/blob/master/Screenshot%20(158).png?raw=true">
